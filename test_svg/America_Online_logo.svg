@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="aol1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: #5491f5;
+        stroke: #2b6fc1;
+        stroke-miterlimit: 2.7;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2">
+    <g>
+      <path class="st1" d="M988.5,168.3c-.8,0-1.8.1-2.6.1s-1.8-.1-2.6-.1c-148.9,0-269.7,120.7-269.7,269.7s121.6,237.7,183.6,337.6c72.1,116.2,62,159.4,86.1,159.4h5.2c24.1-.6,14.1-43.2,86.1-159.4,62-100,183.6-186.6,183.6-337.6s-120.7-269.7-269.7-269.7Z"/>
+      <g>
+        <path class="st0" d="M889.6,523.2l-7.8-40.4h-36.4l-7.6,40.4h-27.2l33.6-161.8h39.4l33.4,161.8h-27.5ZM850,458.7h27.2l-13.7-71.9-13.4,71.9Z"/>
+        <path class="st0" d="M1009.6,361.3v24.9h-30v137h-28.6v-137h-30v-24.9h88.6Z"/>
+        <path class="st0" d="M1148.5,361.3v161.8h-27.4v-67.1c0-15.9,1-31.9,3.4-47.9l-26.4,73.2h-23.6l-26.6-73.2c2.4,14.7,3.6,30.6,3.6,47.9v67.1h-27.2v-161.8h30.2l31.9,89.8,31.9-89.8h30.5-.2Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
